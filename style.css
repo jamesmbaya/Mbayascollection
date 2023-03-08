@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: ;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.sectiona{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.head{
+    margin-right: 50px;
+}
+
+.img1{
+    height: 80px;
+    border-radius: 50%;
+    
+}
