@@ -7,6 +7,11 @@ body{
     color:black;
 }
 
+.products{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-inline: 30px;
+}
 .header{
     display: flex;
     margin-left: 20px;
@@ -24,6 +29,7 @@ body{
 
 #section1{
     color: white;
+    width: 120%;
 }
 
 .head{
@@ -63,9 +69,158 @@ body{
    gap: 20px;   
 }
 
-.goods{
+.slick-list1{
     justify-self: center;
     display: flex;
     flex-direction: row;
     gap: 30px;
+    margin-bottom: 40px;
+    
+}
+
+.women{
+    width: 120%;
+}
+
+.slick-list2{
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    gap: 20px;   
+}
+
+.slick-list3{
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    gap: 20px;   
+}
+
+.slick-list4{
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    gap: 20px;   
+}
+
+.top{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.bottom{
+    margin-right: 100px;
+    margin-left: 200px;
+    padding-bottom: 5px;
+    font-size: small;
+    margin-bottom: 60px;
+}
+
+.bottom2{
+    margin-right: 200px;
+}
+
+.sectiong{
+    gap: 20px;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 10px;
+    border: thin;
+    font-size: medium;
+}
+
+.sectionh{
+    margin-top: 100px;
+    display: flex;
+    padding-left: 30px;
+    margin-left: 10px;
+    gap: 60px;
+    text-decoration: none;
+    text-decoration-line: none;
+    font-size: small;
+}
+
+.text{
+    margin-right: 200px;
+    font-size: medium;
+}
+   
+.main{
+    font-size: medium;
+}
+
+.button{
+    font-size: medium;
+    background-color: yellow;
+    border: yellow;
+    border-radius: 10%;
+    filter: contrast(100%);
+}
+
+.Get{
+    border: 2px solid;
+    height: 210px;
+    width: 350px; 
+}
+
+.store{
+   border: 2px solid;
+   height: 210px;
+   width: 350px; 
+}
+
+.point{
+    border: 2px solid;
+    height: 210px;
+    width: 350px; 
+}
+
+footer{
+    background: rgb(20, 17, 17);
+    color: white;
+    width: 120%;
+    margin-top: 40px;
+}
+
+.gallery{
+    display: flex;
+    gap: 20px;
+    margin-left: 0;
+}
+
+.pic{
+    display: flex;
+    gap: 20px;
+    margin-left: 0;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.shirts{
+    margin-bottom: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.Trouser{
+    margin-bottom: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.jackets{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.button1{
+    margin-left: 300px;
+    cursor: move;
+    border-radius: 50%;
+}
+
+.kids{
+    margin-left: 0;
+    border: 2px solid;
 }
