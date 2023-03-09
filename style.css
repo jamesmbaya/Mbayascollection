@@ -63,9 +63,9 @@ body{
    gap: 20px;   
 }
 
-.sale{
+.goods{
+    justify-self: center;
     display: flex;
-    justify-items: center;
     flex-direction: row;
     gap: 30px;
 }
