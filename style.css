@@ -1,27 +1,71 @@
 *{
     margin: 0;
-    padding: ;
+    padding: 0;
 }
 
 body{
-    background-color: black;
-    color: white;
+    color:black;
 }
 
+.header{
+    display: flex;
+    margin-left: 20px;
+    gap: 50px;
+
+}
 .sectiona{
+    color: white;
+    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
 
+#section1{
+    color: white;
 }
 
 .head{
-    margin-right: 50px;
+    justify-items: right;
+}
+
+.middle{
+    justify-content: center;
+    margin-left: 300px;
+}
+
+.shopping{
+    height: 20px;
 }
 
 .img1{
     height: 80px;
-    border-radius: 50%;
-    
+    border-radius: 50%;   
+}
+
+.items{
+    background-color: rgb(182, 176, 176);
+    list-style: none;
+    flex-direction: row;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.slick-list{
+   display: flex;
+   justify-items: center;
+   flex-direction: row;
+   gap: 20px;   
+}
+
+.sale{
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    gap: 30px;
 }
