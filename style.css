@@ -178,7 +178,7 @@ body{
 footer{
     background: rgb(20, 17, 17);
     color: white;
-    width: 120%;
+    width: 125%;
     margin-top: 40px;
 }
 
@@ -223,4 +223,105 @@ footer{
 .kids{
     margin-left: 0;
     border: 2px solid;
+}
+
+.itemss{
+    background-color: rgb(186, 246, 246);
+    width: 125%;
+    margin-top: 50px;
+    display: flex;
+    gap: 40px;
+}
+
+.black{
+    margin-top: 40px;
+    width: 125%;
+    background-color: rgb(132, 189, 239);
+}
+.acccessories{
+    background-color: rgb(93, 93, 138) ;
+    width: 125%;
+    margin-top: 50px;
+    display: flex;
+    gap: 40px;
+}
+
+.mine{
+    background-color: rgb(72, 93, 132);
+    width: 125%;
+    margin-top: 50px;
+    display: flex;
+    gap: 40px;
+}
+
+.cloth{
+    margin-bottom: 40px;
+    background-color: rgb(164, 135, 191);
+    width: 125%;
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+.sectionc{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 50px;
+    margin-left: 200px;
+}
+
+.sectiond{
+    margin-left: 40px;
+    
+}
+
+.sectione{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionf{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionz{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionp{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectioni{
+ padding-top: 20px;
+ padding-bottom: 20px;
+
+ }
+
+.sectionj{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.sectionk{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.section{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.sectionl{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionm{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
 }
