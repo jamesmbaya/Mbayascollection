@@ -247,16 +247,21 @@ footer{
 }
 
 .mine{
-    background-color: rgb(72, 93, 132);
+   margin-left: 200px;
     width: 125%;
     margin-top: 50px;
     display: flex;
     gap: 40px;
 }
 
+.j1{
+    padding-top: 30px;
+    margin-left: 400px;
+}
+
 .cloth{
-    margin-bottom: 40px;
-    background-color: rgb(164, 135, 191);
+    margin-bottom: 50px;
+    margin-left: 200px;
     width: 125%;
     margin-top: 50px;
     display: flex;
@@ -332,4 +337,48 @@ footer{
     padding-right: 30px;
     gap: 50px;
     margin-left: 10px;
+}
+
+.sectiony{
+    margin-left: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.img1{
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.myemail{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mypassword{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.recaptchaMsg{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mysigninbutton{
+    border: red;
+    background-color: red;
+    border-radius: 10px;
+    cursor: alias;
+}
+
+.sectionr{
+    width: 1200px;
+    width: 125%;
+    height: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 300px;
+    
+   
 }
