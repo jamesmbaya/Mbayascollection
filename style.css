@@ -268,7 +268,7 @@ footer{
     padding-left: 30px;
     padding-right: 30px;
     gap: 50px;
-    margin-left: 200px;
+    margin-left: 10px;
 }
 
 .sectiond{
@@ -324,4 +324,12 @@ footer{
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 40px;
+}
+
+.sectionz{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 50px;
+    margin-left: 10px;
 }
