@@ -34,6 +34,8 @@ body{
 
 .head{
     justify-items: right;
+    width: 135%;
+    margin-left: 700px;
 }
 
 .middle{
